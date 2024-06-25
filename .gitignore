@@ -98,4 +98,4 @@ config.py
 # Local directories
 local_settings.py
 /config.py
-conf ig.py
+config.py
