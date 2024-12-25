@@ -19,7 +19,7 @@ JARVIS Assistant is a Python-based virtual assistant that can perform a wide var
 - **Python**: Core programming language.
 - **SpeechRecognition**: For voice command processing.
 - **pyttsx3**: Text-to-speech conversion.
-- **OpenAI**: AI and NLP integration (if applicable).
+- **OpenAI**: AI and NLP integration.
 - **APIs**: For weather, news, and other external functionalities.
 
 ## Prerequisites
