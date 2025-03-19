@@ -110,4 +110,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to contribute or suggest improvements!
-
+coder_skuad_1205_296@outlier.ai
